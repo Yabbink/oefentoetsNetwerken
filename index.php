@@ -52,7 +52,7 @@ session_start();
                         <div class="col-md-10 col-lg-8">
                             <h1 class="h4">About us</h1>
                             <p class="mt-4 mb-4">
-                                30% of Canada adults say they have used a dating site or app. A majority of online
+                                35% of VS adults say they have used a dating site or app. A majority of online
                                 daters
                                 say their overall experience was positive, particularly younger women finding their
                                 exact matches on this platform</p>
