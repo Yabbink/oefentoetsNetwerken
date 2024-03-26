@@ -3,8 +3,8 @@
 
 define("serverName", "localhost:3306");
 define("database", "net24yhuet_oefentoetsNetwerken");
-define("username", "dating_site_user");
-define("password", "dating!12");
+define("username", "net24yhuet");
+define("password", "}p@hCauYq{M0");
 define("connectionString", "mysql:host=" . serverName . ";dbname=" . database);
 
 function getConnection()
